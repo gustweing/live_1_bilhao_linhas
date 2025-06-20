@@ -1,6 +1,6 @@
 # live_1_bilhao_linhas
 
-# ETL - 1 Bilhão de Linhas - Jorada de Dados - Luciano Vasconcelos
+# ETL - 1 Bilhão de Linhas - Jornada de Dados - Luciano Vasconcelos
 
 Será feito um ETL com 4 engines: Spark, polars, pandas e DuckDB.
 
